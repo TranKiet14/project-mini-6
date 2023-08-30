@@ -1,0 +1,10 @@
+.info{
+    &-title{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    &__cancle{
+        margin-left: 10px;
+    }
+}
